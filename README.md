@@ -28,6 +28,10 @@ platforms:
 
 = **0%**
 
+WARNING!: kotlin native requires you to include
+https://kotlinlang.org/docs/native-binary-licenses.html
+in the final binaries
+
 *no apple targets are planned to be supported, as
 I don't own any apple hardware, feel free to
 help with the port to the apple platforms
