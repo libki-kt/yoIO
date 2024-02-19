@@ -8,6 +8,9 @@ features:
 - [ ] physicalVfs
 - [ ] multiple drives support
 
+= **0%**
+
+
 platforms:
 - [ ] K/N linuxArm64
 - [ ] K/N linuxX64
@@ -22,6 +25,9 @@ platforms:
 - [ ] K/JS node
 - [ ] K/WASM JS
 - [ ] K/WASM WASI
+
+= **0%**
+
 *no apple targets are planned to be supported, as
 I don't own any apple hardware, feel free to
 help with the port to the apple platforms
