@@ -1,0 +1,1 @@
+const val kotlinx_coroutines_version = "1.8.0"

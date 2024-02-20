@@ -12,21 +12,24 @@ features:
 
 
 platforms:
-- [ ] K/N linuxArm64
-- [ ] K/N linuxX64
-- [ ] K/N mingwX64
-- [ ] K/N linuxArm64
+- [ ] K/N linuxArm64 **[P]**
+- [ ] K/N linuxX64 **[P]**
+- [ ] K/N mingwX64 **[P]**
+- [ ] K/N linuxArm64 **[P]**
 - [ ] K/N macosX64
 - [ ] K/N macosArm64
 - [ ] K/N iosX64
 - [ ] K/N iosArm64
-- [ ] K/JVM
-- [ ] K/JS browser
-- [ ] K/JS node
+- [ ] K/JVM **[P]**
+- [ ] K/JS browser **[P]**
+- [ ] K/JS node **[P]**
 - [ ] K/WASM JS
 - [ ] K/WASM WASI
+- [ ] Android
 
 = **0%**
+
+**[P]** — planned as right now
 
 WARNING!: kotlin native requires you to include
 https://kotlinlang.org/docs/native-binary-licenses.html
